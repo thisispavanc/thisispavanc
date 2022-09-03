@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, Everyone thisisPavanc</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisispavanc&label=Profile%20views&color=0e75b6&style=flat" alt="thisispavanc" /> </p>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -33,7 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisispavanc&show_icons=true&locale=en&layout=compact" alt="thisispavanc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisispavanc&show_icons=true&locale=en" alt="thisispavanc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisispavanc&" alt="thisispavanc" /></p>
 
 
