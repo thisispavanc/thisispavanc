@@ -1,17 +1,13 @@
 <h1 align="center">Hey 👋, Everyone thisisPavanc</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **javacript projects**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **javacript**
 
 - 👨‍💻 All of my projects are available at [https://www.findcoder.io/u/pavanc](https://www.findcoder.io/u/pavanc)
 
 - 📝 I regularly write articles on [https://hashnode.com/@thisispavanc](https://hashnode.com/@thisispavanc)
-
-- 💬 Ask me about **anything will try to answer**
 
 - 📫 How to reach me **thisispavanc@gmail.com**
 
